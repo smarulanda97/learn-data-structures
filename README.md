@@ -1,6 +1,6 @@
-# COURSE JAVA DATA ESTRUCTES
+# COURSE JAVA DATA STRUCTURES
 
-These are the examples of each data estructure:
+These are the examples of each data structures:
 
 - Arrays
 - Linked list
