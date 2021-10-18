@@ -1,4 +1,4 @@
-# COURSE JAVA DATA ESTRUCTES
+# COURSE JAVA DATA ESTRUCTES.
 
 These are the examples of each data estructure:
 
@@ -9,3 +9,4 @@ These are the examples of each data estructure:
 - Queue
 - Hash tables
 - Binary Tree and Binary Search Tree
+- Circular dobly linked list
