@@ -1,4 +1,4 @@
-# COURSE JAVA DATA STRUCTURES
+# COURSE JAVA DATA STRUCTURES.
 
 These are the examples of each data structures:
 
@@ -9,3 +9,4 @@ These are the examples of each data structures:
 - Queue
 - Hash tables
 - Binary Tree and Binary Search Tree
+- Circular dobly linked list
